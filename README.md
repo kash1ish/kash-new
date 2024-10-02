@@ -1,4 +1,2 @@
-# kash-new
-My First Git Repository.
-<br>
-Author-Kashish (Prajapati)
+hi i'm kashish this is my first git repositry
+author- kashish
